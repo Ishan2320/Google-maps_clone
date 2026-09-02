@@ -1,0 +1,31 @@
+export const tamilNaduLocations = [
+  { id: 'chennai', name: 'Chennai', type: 'City', category: 'Cities', district: 'Chennai', latitude: 13.0827, longitude: 80.2707, description: 'Tamil Nadu’s coastal capital and a major cultural, economic and historic centre.' },
+  { id: 'coimbatore', name: 'Coimbatore', type: 'City', category: 'Cities', district: 'Coimbatore', latitude: 11.0168, longitude: 76.9558, description: 'A lively western city known for its industry and gateway to the Nilgiris.' },
+  { id: 'madurai', name: 'Madurai', type: 'City', category: 'Cities', district: 'Madurai', latitude: 9.9252, longitude: 78.1198, description: 'The ancient temple city on the Vaigai River.' },
+  { id: 'tiruchirappalli', name: 'Tiruchirappalli', type: 'City', category: 'Cities', district: 'Tiruchirappalli', latitude: 10.7905, longitude: 78.7047, description: 'A historic city at the heart of the Kaveri delta.' },
+  { id: 'salem', name: 'Salem', type: 'City', category: 'Cities', district: 'Salem', latitude: 11.6643, longitude: 78.146, description: 'A gateway to the Shevaroy Hills and a regional commercial centre.' },
+  { id: 'tirunelveli', name: 'Tirunelveli', type: 'City', category: 'Cities', district: 'Tirunelveli', latitude: 8.7139, longitude: 77.7567, description: 'A southern city beside the Tamiraparani River.' },
+  { id: 'erode', name: 'Erode', type: 'City', category: 'Cities', district: 'Erode', latitude: 11.341, longitude: 77.7172, description: 'A textile and turmeric trading centre in western Tamil Nadu.' },
+  { id: 'vellore', name: 'Vellore', type: 'City', category: 'Cities', district: 'Vellore', latitude: 12.9165, longitude: 79.1325, description: 'A historic inland city known for its fort and institutions.' },
+  { id: 'thoothukudi', name: 'Thoothukudi', type: 'City', category: 'Cities', district: 'Thoothukudi', latitude: 8.7642, longitude: 78.1348, description: 'A major port city on the Gulf of Mannar.' },
+  { id: 'thanjavur', name: 'Thanjavur', type: 'City', category: 'Cities', district: 'Thanjavur', latitude: 10.787, longitude: 79.1378, description: 'The cultural heart of the fertile Kaveri delta.' },
+  { id: 'dindigul', name: 'Dindigul', type: 'City', category: 'Cities', district: 'Dindigul', latitude: 10.3673, longitude: 77.9803, description: 'A foothill city with a celebrated hilltop fort.' },
+  { id: 'hosur', name: 'Hosur', type: 'City', category: 'Cities', district: 'Krishnagiri', latitude: 12.7409, longitude: 77.8253, description: 'A green industrial city near the Karnataka border.' },
+  { id: 'nagercoil', name: 'Nagercoil', type: 'City', category: 'Cities', district: 'Kanyakumari', latitude: 8.1833, longitude: 77.4119, description: 'A southern city surrounded by the Western Ghats.' },
+  { id: 'kanchipuram', name: 'Kanchipuram', type: 'City', category: 'Cities', district: 'Kanchipuram', latitude: 12.8342, longitude: 79.7036, description: 'A historic temple city known for silk weaving.' },
+  { id: 'tiruppur', name: 'Tiruppur', type: 'City', category: 'Cities', district: 'Tiruppur', latitude: 11.1085, longitude: 77.3411, description: 'A renowned knitwear and textile manufacturing hub.' },
+  { id: 'cuddalore', name: 'Cuddalore', type: 'City', category: 'Cities', district: 'Cuddalore', latitude: 11.748, longitude: 79.7714, description: 'A coastal city where the Gadilam and Pennaiyar meet the sea.' },
+  { id: 'marina-beach', name: 'Marina Beach', type: 'Landmark', category: 'Beaches', district: 'Chennai', latitude: 13.0500, longitude: 80.2824, description: 'A broad urban beach along Chennai’s Bay of Bengal shoreline.' },
+  { id: 'meenakshi-temple', name: 'Meenakshi Amman Temple', type: 'Landmark', category: 'Temples', district: 'Madurai', latitude: 9.9195, longitude: 78.1193, description: 'A landmark Dravidian temple complex in the centre of Madurai.' },
+  { id: 'brihadeeswarar-temple', name: 'Brihadeeswarar Temple', type: 'Landmark', category: 'Temples', district: 'Thanjavur', latitude: 10.7828, longitude: 79.1318, description: 'The celebrated Chola-era temple and UNESCO World Heritage site.' },
+  { id: 'ooty', name: 'Ooty', type: 'Landmark', category: 'Tourist Places', district: 'The Nilgiris', latitude: 11.4064, longitude: 76.6932, description: 'A highland retreat set among the tea-covered Nilgiri hills.' },
+  { id: 'kodaikanal', name: 'Kodaikanal', type: 'Landmark', category: 'Tourist Places', district: 'Dindigul', latitude: 10.2381, longitude: 77.4892, description: 'A cool hill station centred around its star-shaped lake.' },
+  { id: 'rameswaram', name: 'Rameswaram', type: 'Landmark', category: 'Tourist Places', district: 'Ramanathapuram', latitude: 9.2881, longitude: 79.3129, description: 'An island pilgrimage town at the edge of the Palk Strait.' },
+  { id: 'kanyakumari', name: 'Kanyakumari', type: 'Landmark', category: 'Tourist Places', district: 'Kanyakumari', latitude: 8.078, longitude: 77.541, description: 'India’s southern tip, where three seas meet.' },
+  { id: 'mahabalipuram', name: 'Mahabalipuram', type: 'Landmark', category: 'Tourist Places', district: 'Chengalpattu', latitude: 12.6169, longitude: 80.1927, description: 'A coastal heritage town known for its Pallava monuments.' },
+  { id: 'yercaud', name: 'Yercaud', type: 'Landmark', category: 'Tourist Places', district: 'Salem', latitude: 11.7753, longitude: 78.209, description: 'A quiet hill station in the Shevaroy Hills.' },
+  { id: 'mudumalai', name: 'Mudumalai', type: 'Landmark', category: 'Tourist Places', district: 'The Nilgiris', latitude: 11.5742, longitude: 76.5456, description: 'A protected wildlife landscape in the Nilgiri Biosphere Reserve.' },
+]
+
+export const mapCenter = [10.75, 78.6]
+export const mapZoom = 7
