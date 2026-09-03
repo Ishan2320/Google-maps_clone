@@ -25,6 +25,11 @@ export const tamilNaduLocations = [
   { id: 'mahabalipuram', name: 'Mahabalipuram', type: 'Landmark', category: 'Tourist Places', district: 'Chengalpattu', latitude: 12.6169, longitude: 80.1927, description: 'A coastal heritage town known for its Pallava monuments.' },
   { id: 'yercaud', name: 'Yercaud', type: 'Landmark', category: 'Tourist Places', district: 'Salem', latitude: 11.7753, longitude: 78.209, description: 'A quiet hill station in the Shevaroy Hills.' },
   { id: 'mudumalai', name: 'Mudumalai', type: 'Landmark', category: 'Tourist Places', district: 'The Nilgiris', latitude: 11.5742, longitude: 76.5456, description: 'A protected wildlife landscape in the Nilgiri Biosphere Reserve.' },
+  { id: 'shore-temple', name: 'Shore Temple', type: 'Landmark', category: 'Attractions', district: 'Chengalpattu', latitude: 12.6169, longitude: 80.1992, description: 'An iconic Pallava-era monument beside the Bay of Bengal at Mahabalipuram.' },
+  { id: 'pancha-rathas', name: 'Pancha Rathas', type: 'Landmark', category: 'Attractions', district: 'Chengalpattu', latitude: 12.6086, longitude: 80.1897, description: 'A remarkable group of monolithic rock-cut monuments from the Pallava period.' },
+  { id: 'kapaleeshwarar-temple', name: 'Kapaleeshwarar Temple', type: 'Landmark', category: 'Attractions', district: 'Chennai', latitude: 13.0339, longitude: 80.2699, description: 'A famous Dravidian-style Shiva temple in historic Mylapore.' },
+  { id: 'fort-st-george', name: 'Fort St. George', type: 'Landmark', category: 'Attractions', district: 'Chennai', latitude: 13.0805, longitude: 80.2871, description: 'A historic fortress and major landmark of Chennai.' },
+  { id: 'vivekananda-rock', name: 'Vivekananda Rock Memorial', type: 'Landmark', category: 'Attractions', district: 'Kanyakumari', latitude: 8.0788, longitude: 77.5553, description: 'A famous memorial located on a rocky island at the southern tip of India.' },
 ]
 
 export const mapCenter = [10.75, 78.6]
